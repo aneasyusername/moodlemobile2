@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="mycustomapp" version="3.3.1">
-    <name>CustomApp</name>
+    <name>Shubham</name>
     <description>
-        Moodle Mobile Custom app
+        Shubham Development Academy
     </description>
     <author href="http://moodle.com" email="mobile@moodle.com">
         Moodle Mobile team
